@@ -8,7 +8,7 @@ Several hidden Indonesian data that I have found.
 
 Dataset that contains Indonesian - Lampung language pairs.
 
-The data should contains 3000 rows, unfortunately, the data is not aligned perfectly. So, I decided to manually see which row is starting to get row.
+The data should contains 3000 rows, unfortunately, the data is not aligned perfectly. So, I decided to manually see rows that are perfectly aligned in the PDF.
 Afterwards, I cut the remaining one.
 
 Currently, the data contains 1727 rows.
